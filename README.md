@@ -1,3 +1,3 @@
 # Muhammad Abdis's Site
 
-This code is still not finished
+This code hasn't finished yet
